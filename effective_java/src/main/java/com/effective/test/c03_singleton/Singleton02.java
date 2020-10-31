@@ -1,4 +1,4 @@
-package com.effective.test.singleton;
+package com.effective.test.c03_singleton;
 
 /**
  * 使用enum来实现单例

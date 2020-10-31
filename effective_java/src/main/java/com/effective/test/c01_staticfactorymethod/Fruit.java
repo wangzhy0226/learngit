@@ -1,4 +1,4 @@
-package com.effective.test.staticfactorymethod;
+package com.effective.test.c01_staticfactorymethod;
 
 /**
  * 水果

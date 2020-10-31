@@ -1,4 +1,4 @@
-package com.effective.test.builder;
+package com.effective.test.c02_builder;
 
 /**
  * 当参数过多时，使用builder模式

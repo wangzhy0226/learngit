@@ -1,4 +1,4 @@
-package com.effective.test.privateconstructor;
+package com.effective.test.c04_privateconstructor;
 
 /**
  * 当类中只有静态方法和静态变量时，应该保证这个类不会被实例化。应该将构造器私有化。

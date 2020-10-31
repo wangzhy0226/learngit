@@ -1,4 +1,4 @@
-package com.effective.test.singleton;
+package com.effective.test.c03_singleton;
 
 /**
  * 通过私有化构造方法实现单例   使用静态工厂方法实现

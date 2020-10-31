@@ -1,4 +1,4 @@
-package com.effective.test.singleton.enumtest;
+package com.effective.test.c03_singleton.enumtest;
 
 /**
  * enum的基本使用
